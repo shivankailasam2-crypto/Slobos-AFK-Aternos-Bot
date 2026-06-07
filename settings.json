@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Katta Sura",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "beatmeDaddy.aternos.me",
+    "port": 28818,
     "version": "",
     "try-creative": false
   },
